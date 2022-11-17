@@ -2,14 +2,49 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className='my__contact'>
-        <h2>Contact</h2>
-        <p>your contact info</p>
-        <h2>Make an Appointment</h2>
-        <p>your scheduling info</p>
+      <section>
+        <div class="mx-auto max-w-screen-2xl px-4 py-16 sm:px-6 lg:px-8">
+          <div class="grid grid-cols-1 lg:h-screen lg:grid-cols-2">
+            <div class="relative z-10 lg:py-16">
+              <div class="relative h-64 sm:h-80 lg:h-full">
+                <img
+                  alt="House"
+                  src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+                  class="absolute inset-0 h-full w-full object-cover"
+                />
+              </div>
+            </div>
 
-    </div>
+            <div class="relative flex items-center bg-gray-100">
+              <span
+                class="hidden lg:absolute lg:inset-y-0 lg:-left-16 lg:block lg:w-16 lg:bg-gray-100"
+              ></span>
+
+              <div class="p-8 sm:p-16 lg:p-24">
+                <h2 class="text-2xl font-bold sm:text-3xl">
+                  Contact
+                </h2>
+
+                  <p class="mt-4 text-gray-600">
+                  Dr. Brett C Jacobs D.C.<br/> 
+                  243 W State St <br/> 
+                  Newcomerstown, OH 43832 <br/>
+                  1-XXX-XXX-XXXX <br/>
+                  </p>
+                <h2 class="text-2xl font-bold sm:text-1xl">
+                  Make an Appointment
+                </h2>
+                  <p class="mt-4 text-gray-600">Email bretty@brettysemail.com<br/>
+                  or call or visit between 8AM and 5:30PM</p>
+     
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
   )
 }
 
 export default Contact
+

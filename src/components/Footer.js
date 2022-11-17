@@ -6,11 +6,10 @@ const Footer = () => {
   <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
     <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
       <div>
-        <span class="block h-10 w-32 rounded-lg bg-gray-200"></span>
+        
 
         <p class="mt-4 max-w-xs text-sm text-gray-500">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas,
-          accusantium.
+          Website by Alex G Friedman. 
         </p>
 
         <div class="mt-8 flex gap-6 text-gray-500">
@@ -55,52 +54,12 @@ const Footer = () => {
       <div
         class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:col-span-2 lg:grid-cols-4"
       >
-        <div>
-          <p class="font-medium">Company</p>
+        
 
-          <nav
-            aria-label="Footer Nav"
-            class="mt-4 flex flex-col space-y-2 text-sm text-gray-500"
-          >
-            <a class="hover:opacity-75" href=""> About </a>
-            <a class="hover:opacity-75" href=""> Meet the Team </a>
-            <a class="hover:opacity-75" href=""> History </a>
-            <a class="hover:opacity-75" href=""> Careers </a>
-          </nav>
-        </div>
 
-        <div>
-          <p class="font-medium">Services</p>
 
-          <nav class="mt-4 flex flex-col space-y-2 text-sm text-gray-500">
-            <a class="hover:opacity-75" href=""> 1on1 Coaching </a>
-            <a class="hover:opacity-75" href=""> Company Review </a>
-            <a class="hover:opacity-75" href=""> Accounts Review </a>
-            <a class="hover:opacity-75" href=""> HR Consulting </a>
-            <a class="hover:opacity-75" href=""> SEO Optimisation </a>
-          </nav>
-        </div>
 
-        <div>
-          <p class="font-medium">Helpful Links</p>
 
-          <nav class="mt-4 flex flex-col space-y-2 text-sm text-gray-500">
-            <a class="hover:opacity-75" href=""> Contact </a>
-            <a class="hover:opacity-75" href=""> FAQs </a>
-            <a class="hover:opacity-75" href=""> Live Chat </a>
-          </nav>
-        </div>
-
-        <div>
-          <p class="font-medium">Legal</p>
-
-          <nav class="mt-4 flex flex-col space-y-2 text-sm text-gray-500">
-            <a class="hover:opacity-75" href=""> Privacy Policy </a>
-            <a class="hover:opacity-75" href=""> Terms & Conditions </a>
-            <a class="hover:opacity-75" href=""> Returns Policy </a>
-            <a class="hover:opacity-75" href=""> Accessibility </a>
-          </nav>
-        </div>
       </div>
     </div>
 
