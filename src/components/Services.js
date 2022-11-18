@@ -8,15 +8,14 @@ const Services = () => {
           <h2 class="text-3xl font-bold sm:text-4xl">Our Services</h2>
 
           <p class="mt-4 text-gray-900">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur
-            aliquam doloribus nesciunt eos fugiat. Vitae aperiam fugit consequuntur
-            saepe laborum.
+            We treat musclulo-skeletal complaints, mobility issues, and provide rehabilitation services.
+            The doctor will also counsel patients regarding general health, diet and exercise.   
           </p>
         </div>
 
         <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-2">
           <a
-            class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+            class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
             href="/services/digital-campaigns"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-10 w-10 text-pink-500">
@@ -28,13 +27,13 @@ const Services = () => {
             <h2 class="mt-4 text-xl font-bold text-gray-900">Exams</h2>
 
             <p class="mt-1 text-sm text-gray-900">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+              Your first exam will likely include assessment of vitals, range of motion examination, neurological examination, and an orthopedic exam.
+              You should arrive 30 minutes early to provide medical history and paperwork.  
             </p>
           </a>
 
           <a
-            class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+            class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
             href="/services/digital-campaigns"
           >
            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-10 h-10">
@@ -46,8 +45,8 @@ const Services = () => {
             <h2 class="mt-4 text-xl font-bold text-gray-900">Re-Exams</h2>
 
             <p class="mt-1 text-sm text-gray-900">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+              Re-exams will be performed to assess patient progress. The doctor will measure progress compared to the initial examination
+              to ensure patients are responding to care and improving.   
             </p>
           </a>
 
@@ -55,15 +54,15 @@ const Services = () => {
             class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
             href="/services/digital-campaigns"
           >
-            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" className="h-10 w-10 text-pink-500">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" className="h-10 w-10 text-green-900">
               <path strokeLinecap="round" strokeLinejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
             </svg>
 
             <h2 class="mt-4 text-xl font-bold text-gray-900">Treatment</h2>
 
             <p class="mt-1 text-sm text-gray-900">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+              Treatment can include spinal manipulation, extremity manipulation, trigger point therapy, muscular stretching, and rehabilitation. 
+              The doctor may also provide supplemental, nutritional, fitness, and ergonomical advice. 
             </p>
           </a>
 
@@ -79,8 +78,8 @@ const Services = () => {
             <h2 class="mt-4 text-xl font-bold text-gray-900">E-Stim</h2>
 
             <p class="mt-1 text-sm text-gray-900">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-              possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+              We offer interferential electrical stimulation treatment to assist in rehabilitation and muscular recovery. Interferential current
+              penetrates more deeply and improves vital bloodflow to promote healing more effectively than commercially available treatment. 
             </p>
           </a>
 

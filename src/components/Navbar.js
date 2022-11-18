@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../assets/logo.jpeg";
+import logo from "../assets/svglogo.svg";
 
 
 const Navbar = () => {
@@ -15,6 +15,8 @@ const Navbar = () => {
                     <span className="inline-flex">
                         
                     <img
+                    
+                    class="h-10"
                     src={logo}
                     alt='lion logo'
                     className='logo'

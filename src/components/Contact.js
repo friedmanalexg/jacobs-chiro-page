@@ -30,13 +30,18 @@ const Contact = () => {
                   Dr. Brett C Jacobs D.C.<br/> 
                   243 W State St <br/> 
                   Newcomerstown, OH 43832 <br/>
-                  1-XXX-XXX-XXXX <br/>
+                 
                   </p>
                 <h2 class="text-2xl font-bold sm:text-1xl">
                   Make an Appointment
                 </h2>
-                  <p class="mt-4 text-gray-600">Email bretty@brettysemail.com<br/>
-                  or call or visit between 8AM and 5:30PM</p>
+                  <p class="mt-4 text-gray-600">To schedule an appointment,<br/>
+                  please call during our business hours (8AM and 5:30PM). <br/>
+                  Leave a message and we will return your call.
+                  </p>
+                <h2 class="text-2xl font-bold sm:text-1xl">
+                  1-740-492-4382
+                </h2>
      
               </div>
             </div>
