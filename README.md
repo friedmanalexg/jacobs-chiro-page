@@ -7,5 +7,9 @@ This site uses a JavaScript-React frontend that has been heavily styled with Tai
 ## Launch
 Anticipated launch in December '22.
 
+## Reference
+The page's color scheme is:
+
+
 ## Thanks
 Thanks to my colleagues, The Killer Potatoes, for good company and helping me shake off some rust. 

@@ -8,15 +8,15 @@ const Navbar = () => {
     <div>
         <header aria-label="Site Header" class="bg-white dark:bg-gray-900">
             <div
-                class="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8"
+                class="mx-auto flex h-14 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8"
             >
                 <a href='/'>
                     <span class="sr-only">Home</span>
-                    <span className="inline-flex">
+                    <span >
                         
                     <img
                     
-                    class="h-10"
+                    class="h-14"
                     src={logo}
                     alt='lion logo'
                     className='logo'

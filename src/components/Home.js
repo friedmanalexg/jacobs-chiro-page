@@ -16,15 +16,15 @@ const Home = () => {
       </div>
 
       <div class="lg:py-24">
-        <h2 class="text-3xl font-bold sm:text-4xl">Welcome to Jacob's Chiropractic</h2>
+        <h2 class="text-3xl font-bold text-stone-800 sm:text-4xl">Welcome to Jacob's Chiropractic</h2>
 
-        <p class="mt-4 text-gray-600">
+        <p class="mt-4 text-stone-800">
           Your local Newcomerstown chiropractic care center, run by your hometown Doctor of Chiropractic, Dr. Brett Jacobs. 
         </p>
 
         <a
           href="/contact"
-          class="mt-8 inline-flex items-center rounded border border-pink-500 bg-pink-600 px-8 py-3 text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
+          class="mt-8 inline-flex items-center rounded border border-green-800 bg-green-900 px-8 py-3 text-white hover:bg-transparent hover:text-stone-900 focus:outline-none focus:ring active:text-lime-500"
         >
           <span class="text-sm font-medium"> Make an Appointment </span>
 

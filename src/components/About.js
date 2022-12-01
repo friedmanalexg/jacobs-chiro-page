@@ -1,4 +1,5 @@
 import React from 'react'
+import sign from "../assets/sign.jpg"
 
 const About = () => {
   return (
@@ -13,8 +14,8 @@ const About = () => {
         <div class="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
           <div class="relative h-64 overflow-hidden sm:h-80 lg:h-full">
             <img
-              alt="Party"
-              src="https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
+              alt="Jacobs Chiro Sign"
+              src={sign}
               class="absolute inset-0 h-full w-full object-cover"
             />
           </div>
@@ -30,6 +31,13 @@ const About = () => {
               Dr. Jacobs is a practicing Doctor of Chiropractic. He served the community of Cadiz, Ohio, for many years before returning home to Newcomerstown and opening his practice in 2022.
               </p>
             </article>
+          </div>
+          <div class="relative h-35 overflow-hidden sm:h-80 lg:h-full">
+            <img
+              alt="Jacobs Chiro Sign"
+              src={sign}
+              class="absolute inset-0 h-full w-full object-cover"
+            />
           </div>
         </div>
       </div>

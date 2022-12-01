@@ -15,15 +15,14 @@ import Home from './components/Home';
 function App() {
   return (
     <div className="App">
-      <h1 className="text-3xl font-bold underline"> Jacobs Chiropractic </h1>
-      <Navbar />
-      <Routes>
-            <Route path='/' element={<Home/>} />
-            <Route path='/about' element={<About/>} />
-            <Route path='/services' element={<Services/>}/>
-            <Route path='/contact' element={<Contact/>} />
-      </Routes>
-      <Footer/> 
+        <Navbar />
+        <Routes>
+              <Route path='/' element={<Home/>} />
+              <Route path='/about' element={<About/>} />
+              <Route path='/services' element={<Services/>}/>
+              <Route path='/contact' element={<Contact/>} />
+        </Routes>
+        <Footer/> 
     </div>
   );
 }
