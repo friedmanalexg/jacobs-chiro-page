@@ -1,4 +1,5 @@
 import React from 'react'
+import sign from '../assets/sign.jpg'
 
 const Home = () => {
   return (
@@ -9,14 +10,14 @@ const Home = () => {
         class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full"
       >
         <img
-          alt="Party"
-          src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+          alt="jacobs chiropractic sign"
+          src={sign}
           class="absolute inset-0 h-full w-full object-cover"
         />
       </div>
 
       <div class="lg:py-24">
-        <h2 class="text-3xl font-bold text-stone-800 sm:text-4xl">Welcome to Jacob's Chiropractic</h2>
+        <h2 class="text-3xl font-bold text-stone-800 sm:text-4xl">Welcome to Jacobs Chiropractic</h2>
 
         <p class="mt-4 text-stone-800">
           Your local Newcomerstown chiropractic care center, run by your hometown Doctor of Chiropractic, Dr. Brett Jacobs. 

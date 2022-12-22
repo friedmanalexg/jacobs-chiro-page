@@ -51,7 +51,7 @@ const Services = () => {
           </a>
 
           <a
-            class="block rounded-xl border border-stone-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
+            class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
             href="/services/digital-campaigns"
           >
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" className="h-10 w-10 text-green-900">
@@ -67,7 +67,7 @@ const Services = () => {
           </a>
 
           <a
-            class="block rounded-xl border border-stone-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
+            class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
             href="https://en.wikipedia.org/wiki/Electrical_muscle_stimulation" target="_blank" rel="noreferrer noopener"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-10 h-10 text-green-800">
