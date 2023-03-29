@@ -9,14 +9,14 @@ const Services = () => {
           {/* Let's consider putting the logo here, too <img /> */}
           <p class="mt-4 text-stone-900">
             We treat musclulo-skeletal complaints, mobility issues, and provide rehabilitation services.
-            The doctor will also counsel patients regarding general health, diet and exercise.   
+            The doctor will also counsel patients regarding general health, diet and exercise. Click on a service below for helpful information.   
           </p>
         </div>
 
         <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-2">
           <a
             class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
-            href="/services/digital-campaigns"
+            href="https://www.spine-health.com/treatment/chiropractic/what-expect-first-chiropractic-consultation"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-10 w-10 text-green-800">
               <path fillRule="evenodd" d="M7.502 6h7.128A3.375 3.375 0 0118 9.375v9.375a3 3 0 003-3V6.108c0-1.505-1.125-2.811-2.664-2.94a48.972 48.972 0 00-.673-.05A3 3 0 0015 1.5h-1.5a3 3 0 00-2.663 1.618c-.225.015-.45.032-.673.05C8.662 3.295 7.554 4.542 7.502 6zM13.5 3A1.5 1.5 0 0012 4.5h4.5A1.5 1.5 0 0015 3h-1.5z" clipRule="evenodd" />
@@ -34,7 +34,7 @@ const Services = () => {
 
           <a
             class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
-            href="/services/digital-campaigns"
+            href="https://www.chirohealthusa.com/consultants/when-should-re-examinations-be-performed/"
           >
            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-10 h-10 text-green-800">
   <path fillRule="evenodd" d="M7.502 6h7.128A3.375 3.375 0 0118 9.375v9.375a3 3 0 003-3V6.108c0-1.505-1.125-2.811-2.664-2.94a48.972 48.972 0 00-.673-.05A3 3 0 0015 1.5h-1.5a3 3 0 00-2.663 1.618c-.225.015-.45.032-.673.05C8.662 3.295 7.554 4.542 7.502 6zM13.5 3A1.5 1.5 0 0012 4.5h4.5A1.5 1.5 0 0015 3h-1.5z" clipRule="evenodd" />
@@ -52,7 +52,7 @@ const Services = () => {
 
           <a
             class="block rounded-xl border border-green-800 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-stone-500/10"
-            href="/services/digital-campaigns"
+            href="https://www.mayoclinic.org/tests-procedures/chiropractic-adjustment/about/pac-20393513"
           >
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" className="h-10 w-10 text-green-900">
               <path strokeLinecap="round" strokeLinejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
