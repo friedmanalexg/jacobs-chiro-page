@@ -64,6 +64,7 @@ const Footer = () => {
     </div>
 
     <p class="mt-8 text-xs text-gray-500">&copy; 2022 Jacobs Chiropractic LLC</p>
+    <p class="mt-8 text-xs text-gray-500">243 W State St; Newcomerstown, OH 43832</p>
   </div>
 </footer>
 

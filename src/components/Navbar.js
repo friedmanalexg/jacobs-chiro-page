@@ -9,7 +9,7 @@ const Navbar = () => {
     
   </div>
   <div class="flex items-center">
-    
+    <a href='tel:740-492-4382' class="ml-4 px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700">1-740-492-4382</a>
     <a href="/" class="ml-4 px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700">Home</a>
     <a href="/about" class="ml-4 px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700">About</a>
     <a href="/services" class="ml-4 px-3 py-2 rounded-md text-sm font-medium text-gray-200 hover:text-white hover:bg-gray-700 focus:outline-none focus:text-white focus:bg-gray-700">Services</a>
