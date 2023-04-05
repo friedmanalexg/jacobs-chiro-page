@@ -8,7 +8,7 @@ const Services = () => {
           <h2 class="text-3xl font-bold sm:text-4xl">Our Services</h2>
           {/* Let's consider putting the logo here, too <img /> */}
           <p class="mt-4 text-stone-900">
-            We treat musclulo-skeletal complaints, mobility issues, and provide rehabilitation services.
+            We treat musculoskeletal complaints, mobility issues, and provide rehabilitation services.
             The doctor will also counsel patients regarding general health, diet and exercise. Click on a service below for helpful information.   
           </p>
         </div>
