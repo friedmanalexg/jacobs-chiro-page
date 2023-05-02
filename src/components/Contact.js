@@ -37,6 +37,7 @@ const Contact = () => {
                 </h2>
                   <p class="mt-4 text-gray-600">To schedule an appointment,<br/>
                   please call during our business hours (8AM and 5:30PM). <br/>
+                  Appointments are available Monday through Thursday, 8AM to noon, 1PM to 5:30PM. <br/>
                   Leave a message and we will return your call.
                   </p>
                 <h2 class="text-2xl font-bold sm:text-1xl">
