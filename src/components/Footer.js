@@ -9,7 +9,7 @@ const Footer = () => {
         
 
         <p class="mt-4 max-w-xs text-sm text-gray-500">
-          Website by Alex G Friedman. 
+          Website by Alex G Friedman, 2023.
         </p>
 
         <div class="mt-8 flex gap-6 text-gray-500">
